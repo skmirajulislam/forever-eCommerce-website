@@ -50,7 +50,7 @@ You can visit the live website here: [Forever ](https://forever-ecom.netlify.app
 
 1. Clone the repository:
     ```bash
-    git clone 
+    git clone https://github.com/skmirajulislam/forever-eCommerce-website.git
     ```
 2. Navigate to the project directory:
     ```bash
